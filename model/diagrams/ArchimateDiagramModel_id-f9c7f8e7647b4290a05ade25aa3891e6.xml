@@ -53,15 +53,15 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6999bb02b7e14da9915cc8c54560f8b3">
+      id="id-af84c8bba65a477c898618677c7c83e5">
     <bounds
-        x="805"
-        y="324"
+        x="813"
+        y="292"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-c5bcf5886113487cb1fa15f91bab23f5.xml#id-c5bcf5886113487cb1fa15f91bab23f5"/>
+        xsi:type="archimate:Resource"
+        href="Resource_id-0fc5ef8cef454ae2b75cd270b89a6fd8.xml#id-0fc5ef8cef454ae2b75cd270b89a6fd8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
